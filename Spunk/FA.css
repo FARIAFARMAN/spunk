@@ -1,0 +1,22 @@
+p,a
+{
+ text-align: center;
+  font-family: "Edu AU VIC WA NT Guides", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+button
+{
+ background-color: blueviolet;
+ border-radius: 100px;
+ border-color: bisque;
+ text-align: center;
+
+
+
+  font-family: "Edu AU VIC WA NT Guides", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
